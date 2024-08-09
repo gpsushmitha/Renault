@@ -1,0 +1,52 @@
+
+
+.RenaultInfo{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background-color: rgb(245, 178, 70);
+    padding: 20px;
+}
+
+.RenaultImg{
+height: 250px;
+width: 400px;
+border: solid black;
+border-width: 2px;
+}
+table {
+    width: 100%;
+    border-radius: 20 px;
+  }
+  
+  td, th {
+    text-align:left;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  #modularity{
+    background-color:burlywood;
+    padding: 20px;
+    border: 2px solid black;
+  }
+  #Triber-Car-Colors{
+    background-color:rgb(169, 228, 132);
+    padding: 20px;
+    border: 2px solid black;
+  }
+  #Safety{
+    background-color:rgb(169, 228, 132);
+    padding: 20px;
+    border: 2px solid black;
+  }
+  #Design,#Space{
+    background-color:burlywood;
+    padding: 20px;
+    border: 2px solid black;
+  }
+  #Technology{
+    background-color:rgb(169, 228, 132);
+    padding: 20px;
+    border: 2px solid black;
+  }
